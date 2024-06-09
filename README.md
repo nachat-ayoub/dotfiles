@@ -13,7 +13,7 @@ To automate the setup process, you can use the provided `setup.sh` script. This 
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/dotfiles.git
+   git clone https://github.com/nachat-ayoub/dotfiles.git
    cd dotfiles
    ```
 
